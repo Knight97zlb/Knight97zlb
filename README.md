@@ -6,5 +6,5 @@
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Knight97zlb" /> </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Knight97zlb&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knight97zlb" /> </div>
-
+<div align="center"> <img src="https://stats.justsong.cn/api/bilibili?id=213205372"> </div>
 
