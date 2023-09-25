@@ -16,11 +16,11 @@
 <!-- GitHub 徽章shields.io/ 
 <div align="center"><span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span></div>-->
 
-<!-- GitHub 访客徽章visitor-badge.glitch.me/ -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Knight97zlb" /> </div>
+<!-- GitHub 访客徽章visitor-badge.glitch.me/ 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Knight97zlb" /> </div>-->
 
-<!-- GitHub 活动统计图github.com/Ashutosh00710/github-readme-activity-graph/ -->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Knight97zlb&theme=xcode" /> </div>
+<!-- GitHub 活动统计图github.com/Ashutosh00710/github-readme-activity-graph/ 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Knight97zlb&theme=xcode" /> </div>-->
 
 <!-- GitHub 连续打卡github.com/DenverCoder1/github-readme-streak-stats -->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knight97zlb" /> </div>
